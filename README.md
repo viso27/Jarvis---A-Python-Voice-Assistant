@@ -41,6 +41,7 @@ To run this project, make sure you have Python installed along with the followin
 You can install the required libraries using the following commands:
 
 ```bash
+pip install pyaudio
 pip install pyttsx3
 pip install SpeechRecognition
 pip install wikipedia
